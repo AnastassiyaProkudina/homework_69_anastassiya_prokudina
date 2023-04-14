@@ -1,0 +1,5 @@
+asgiref==3.6.0
+divide==6
+Django==4.2
+django-bootstrap5==23.1
+sqlparse==0.4.3
